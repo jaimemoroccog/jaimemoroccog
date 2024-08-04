@@ -1,6 +1,7 @@
 ## Hola, mi nombre es Jaime Morocco Gutierrez 👋
 Gotecnia para Dummies, Programación Orientada en Herramientas SIG 
-![PORTAL OFICIAL JAIME](https://github.com/user-attachments/assets/972c7d75-6037-416e-940d-5b155413714a)
+![JAIME OFI](https://github.com/user-attachments/assets/2308bd1e-31ca-47e6-8a6d-35a0db5e2a71)
+
 
 <!--
 **jaimemoroccog/jaimemoroccog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

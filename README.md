@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hola, mi nombre es Jaime Morocco Gutierrez 👋
+Gotecnia para Dummies, Programación Orientada en Herramientas SIG 
 
 <!--
 **jaimemoroccog/jaimemoroccog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ## Hola, mi nombre es Jaime Morocco Gutierrez 👋
 Gotecnia para Dummies, Programación Orientada en Herramientas SIG 
-![JAIME OFI](https://github.com/user-attachments/assets/2308bd1e-31ca-47e6-8a6d-35a0db5e2a71)
+![OFFFFF](https://github.com/user-attachments/assets/4ea1c7bf-c839-4f83-869f-9d97e52affe9)
+
 
 
 <!--
